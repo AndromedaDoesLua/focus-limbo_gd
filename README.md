@@ -5,3 +5,7 @@ Good luck beating it :)
 
 
 F O C U S
+
+
+
+If it doesn't work for you, Try opening it via command prompt, For me double click didn't work and I don't know why.
